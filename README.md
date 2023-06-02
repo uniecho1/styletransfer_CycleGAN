@@ -1,1 +1,1 @@
-A cyclegan based style transform project.
+A cyclegan based style transfer project.
